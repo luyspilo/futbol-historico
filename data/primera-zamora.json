@@ -1,0 +1,23 @@
+{
+  "competition":"primera-division",
+  "award":"zamora",
+  "sourceId":"marca-zamora-historico",
+  "status":"partial",
+  "rows":[
+    {"season":"1928/29","person":"Ricardo Zamora","club":"Espanyol","coefficient":1.60,"goalsConceded":24,"matches":15},
+    {"season":"1929/30","person":"Blasco","club":"Athletic Bilbao","coefficient":1.33,"goalsConceded":20,"matches":15},
+    {"season":"1930/31","person":"Zarraonaindia","club":"Arenas Club","coefficient":1.92,"goalsConceded":27,"matches":14},
+    {"season":"1931/32","person":"Ricardo Zamora","club":"Real Madrid","coefficient":0.88,"goalsConceded":15,"matches":17},
+    {"season":"1932/33","person":"Ricardo Zamora","club":"Real Madrid","coefficient":0.94,"goalsConceded":17,"matches":18},
+    {"season":"1933/34","person":"Blasco","club":"Athletic Bilbao","coefficient":1.50,"goalsConceded":21,"matches":14},
+    {"season":"1934/35","person":"Urquiaga","club":"Real Betis","coefficient":0.90,"goalsConceded":19,"matches":21},
+    {"season":"1935/36","person":"Blasco","club":"Athletic Bilbao","coefficient":1.42,"goalsConceded":30,"matches":21},
+    {"season":"1939/40","person":"Fernando Tabales","club":"Atlético Aviación","coefficient":1.38,"goalsConceded":29,"matches":21},
+    {"season":"1940/41","person":"Echevarría","club":"Athletic Bilbao","coefficient":1.16,"goalsConceded":21,"matches":18},
+    {"season":"1941/42","person":"Juan Acuña","club":"Deportivo La Coruña","coefficient":1.42,"goalsConceded":37,"matches":26},
+    {"season":"1942/43","person":"Juan Acuña","club":"Deportivo La Coruña","coefficient":1.24,"goalsConceded":31,"matches":25},
+    {"season":"1943/44","person":"Ignacio Eizaguirre","club":"Valencia CF","coefficient":1.23,"goalsConceded":32,"matches":26},
+    {"season":"1944/45","person":"Ignacio Eizaguirre","club":"Valencia CF","coefficient":1.27,"goalsConceded":28,"matches":22},
+    {"season":"1945/46","person":"Bañón","club":"Real Madrid","coefficient":1.00,"goalsConceded":24,"matches":24}
+  ]
+}
