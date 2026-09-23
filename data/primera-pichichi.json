@@ -1,0 +1,22 @@
+{
+  "competition": "primera-division",
+  "award": "pichichi",
+  "sourceId": "rsssf-pichichi",
+  "rows": [
+    {"season":"1928/29","person":"Francisco Bienzobas","club":"Real Sociedad","goals":14,"matches":18},
+    {"season":"1929/30","person":"Guillermo Gorostiza","club":"Athletic Bilbao","goals":19,"matches":18},
+    {"season":"1930/31","person":"Agustín Sauto (Bata)","club":"Athletic Bilbao","goals":27,"matches":17},
+    {"season":"1931/32","person":"Guillermo Gorostiza","club":"Athletic Bilbao","goals":12,"matches":15},
+    {"season":"1932/33","person":"Manuel Olivares","club":"Real Madrid","goals":16,"matches":14},
+    {"season":"1933/34","person":"Isidro Lángara","club":"Real Oviedo","goals":27,"matches":18},
+    {"season":"1934/35","person":"Isidro Lángara","club":"Real Oviedo","goals":26,"matches":22},
+    {"season":"1935/36","person":"Isidro Lángara","club":"Real Oviedo","goals":27,"matches":21},
+    {"season":"1939/40","person":"Unamuno","club":"Athletic Bilbao","goals":20,"matches":22},
+    {"season":"1940/41","person":"Pruden","club":"Atlético Madrid","goals":30,"matches":22},
+    {"season":"1941/42","person":"Edmundo Suárez (Mundo)","club":"Valencia CF","goals":27,"matches":25},
+    {"season":"1942/43","person":"Mariano Martín","club":"FC Barcelona","goals":32,"matches":23},
+    {"season":"1943/44","person":"Edmundo Suárez (Mundo)","club":"Valencia CF","goals":27,"matches":26},
+    {"season":"1944/45","person":"Telmo Zarra","club":"Athletic Bilbao","goals":19,"matches":26},
+    {"season":"1945/46","person":"Telmo Zarra","club":"Athletic Bilbao","goals":24,"matches":18}
+  ]
+}
