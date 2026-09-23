@@ -4,7 +4,7 @@
   mount.style.marginTop = '18px';
   mount.innerHTML = '<div class="section"><h2>Datos históricos importados</h2><span class="badge">Fuente: RSSSF</span></div><div class="note">Cargando registros verificados…</div>';
   document.querySelector('main').appendChild(mount);
-  fetch('data/primera-pichichi.json').then(r => r.json()).then(data => {
+  fetch('data/primera-pichichi.json?v=20260923-2').then(r => r.json()).then(data => {
     const rows = [...data.rows].sort((a,b) => b.goals - a.goals || a.season.localeCompare(b.season));
     mount.innerHTML = '<div class="section"><h2>Pichichi · registros históricos importados</h2><span class="badge">' + data.rows.length + ' temporadas verificadas</span></div>' +
       '<table class="table"><thead><tr><th>Temporada</th><th>Jugador</th><th>Club</th><th>Goles</th><th>Partidos</th></tr></thead><tbody>' +
